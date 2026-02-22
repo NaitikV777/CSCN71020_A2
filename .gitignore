@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSCN71020_A2/.vs/BCSRec
+/CSCN71020_A2/BCSRec/BCSRec.vcxproj
+/CSCN71020_A2/BCSRec/BCSRec.vcxproj
+/CSCN71020_A2/BCSRec/BCSRec.vcxproj.user
+/CSCN71020_A2/UnitTest1
+/CSCN71020_A2/BCSRec.sln
+/.gitignore
+/CSCN71020_A2/BCSRec.sln
+/CSCN71020_A2/BCSRec/BCSRec.vcxproj
+/.gitignore
